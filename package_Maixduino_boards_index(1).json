@@ -14,10 +14,10 @@
                     "name": "Maixduino(K210)",
                     "version": "0.3.12-1",
                     "architecture": "k210",
-                    "url": "https://github.com/UT2UH/Maixduino/archive/v0.3.11.zip",
-                    "checksum": "SHA-256:3459826440ea33943b0f851ff4dd492ae33e9de39b30d3d474b3e781057eef86",
+                    "url": "https://github.com/sipeed/Maixduino/releases/download/v0.3.11/Maixduino_core_v0.3.11.zip",
+                    "checksum": "SHA-256:03a7a7e245494460e581883aeb19ce01d7037e327940f5df025971ecca3af235",
                     "archiveFileName": "Maixduino-0.3.12-1.zip",
-                    "size": "266081",
+                    "size": "1905004",
                     "boards": [
                         {"name": "M5Stack M5StickV"},
                         {"name": "M5Stack M5UnitV"},
